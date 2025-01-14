@@ -8,7 +8,7 @@
 - **Sistem Operasi**: Linux (Ubuntu, Debian, CentOS, RHEL)  
 - **Automasi**: Bash Scripting, Ansible  
 - **Jaringan**: IPv4/IPv6, VLAN, OSPF, Open vSwitch (OVS)  
-- **Virtualisasi & Kontainer**: Docker, Kubernetes, VMware  
+- **Virtualisasi & Kontainer**: Docker, VMware  
 - **Keamanan**: PGP, OpenDKIM, SPF, Firewall  
 - **DevOps**: CI/CD, Git, Monitoring (Zabbix, Prometheus)  
 - **Email Management**: Postfix, Mailman  
@@ -39,13 +39,6 @@ Saya ingin terus berkembang sebagai seorang **System Administrator** dengan foku
 - Meningkatkan efisiensi infrastruktur melalui automasi.  
 - Membangun solusi self-hosted yang andal dan aman.  
 - Berkontribusi pada komunitas open-source dengan berbagi alat dan pengetahuan.  
-
----
-
-## 🌐 Hubungi Saya  
-- **Email**: rizki@multinetperkasa.id  
-- **LinkedIn**: [linkedin.com/in/muhammadrizki](https://linkedin.com/in/muhammadrizki)  
-- **Website**: [rizki-techblog.com](https://rizki-techblog.com) *(jika ada)*  
 
 ---
 
