@@ -47,4 +47,10 @@ Saya ingin terus berkembang sebagai seorang **System Administrator** dengan foku
 
 ---
 
+# 📊 My Stats
+
+[![TechnoTim's github stats](https://github-readme-stats.vercel.app/api?username=kkynet&show_icons=true&count_private=true&theme=radical&hide=stars)](https://github.com/kkynet)
+
+---
+
 ⭐ Jangan lupa untuk memberi star ⭐ pada repositori saya jika Anda merasa proyek saya bermanfaat!  
