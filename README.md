@@ -1,4 +1,4 @@
-![Hero image](https://raw.githubusercontent.com/kkynet/kkynet/blob/main/assets/kkynetprofile.JPG)
+![Hero image](https://github.com/kkynet/kkynet/blob/main/assets/kkynetprofile.JPG?raw=true)
 
 [![GitHub followers](https://img.shields.io/github/followers/kkynet?logo=GitHub&style=for-the-badge)](https://github.com/kkynet)
 [![GitHub Stars](https://img.shields.io/github/stars/kkynet?logo=github&style=for-the-badge)](https://github.com/kkynet)
