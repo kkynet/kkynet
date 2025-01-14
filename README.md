@@ -20,16 +20,15 @@
 
 ---
 
-## 🌟 Proyek Unggulan  
+## 🌟 Project
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kkynet&repo=ispconfig3-docker&theme=radical)](https://github.com/kkynet/ispconfig3-docker)
 
 ---
 
 ## ✍️ Artikel & Tutorial  
-- **[Mengelola Open vSwitch untuk Docker Networking](https://github.com/username/blog-openswitch)**  
-- **[Cara Menyiapkan Postfix dengan DKIM dan SPF](https://github.com/username/postfix-dkim-setup)**  
-- **[Automasi Tugas Sysadmin dengan Ansible](https://github.com/username/ansible-guide)**  
+
+Soon
 
 ---
 
@@ -41,9 +40,9 @@ Saya ingin terus berkembang sebagai seorang **System Administrator** dengan foku
 
 ---
 
-# 📊 My Stats
+# 📊 Stats
 
-[![TechnoTim's github stats](https://github-readme-stats.vercel.app/api?username=kkynet&show_icons=true&count_private=true&theme=radical&hide=stars)](https://github.com/kkynet)
+[![Kkynet's github stats](https://github-readme-stats.vercel.app/api?username=kkynet&show_icons=true&count_private=true&theme=radical&hide=stars)](https://github.com/kkynet)
 
 ---
 
