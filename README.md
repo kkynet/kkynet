@@ -21,14 +21,7 @@
 ---
 
 ## 🌟 Proyek Unggulan  
-- **[Dockerized Mail Server](https://github.com/username/dockerized-mail-server)**  
-  Solusi mail server self-hosted dengan Postfix, Dovecot, dan OpenDKIM untuk integrasi email aman dan andal.  
-
-- **[IPv6 Network Automation](https://github.com/username/ipv6-network-automation)**  
-  Script otomatis untuk konfigurasi jaringan berbasis IPv6 pada router MikroTik menggunakan OSPF.  
-
-- **[LocalSend Deployment](https://github.com/username/localsend-deployment)**  
-  Panduan untuk deploy LocalSend secara self-hosted di server Linux.  
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kkynet&repo=ispconfig3-docker&theme=radical)](https://github.com/kkynet/ispconfig3-docker)
 
 ---
 
