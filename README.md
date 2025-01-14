@@ -1,16 +1,52 @@
-## Hi there 👋
+# 💻 Muhammad Rizki | Linux System Administrator  
 
-<!--
-**kkynet/kkynet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👋 Selamat datang di profil GitHub saya! Saya seorang **Linux System Administrator** dengan pengalaman dalam mengelola server, jaringan, dan solusi berbasis cloud. Saya suka mengeksplorasi teknologi baru, mengotomatiskan tugas rutin, dan memastikan sistem berjalan dengan efisien dan aman.  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 Keahlian Utama  
+- **Sistem Operasi**: Linux (Ubuntu, Debian, CentOS, RHEL)  
+- **Automasi**: Bash Scripting, Ansible  
+- **Jaringan**: IPv4/IPv6, VLAN, OSPF, Open vSwitch (OVS)  
+- **Virtualisasi & Kontainer**: Docker, Kubernetes, VMware  
+- **Keamanan**: PGP, OpenDKIM, SPF, Firewall  
+- **DevOps**: CI/CD, Git, Monitoring (Zabbix, Prometheus)  
+- **Email Management**: Postfix, Mailman  
+
+---
+
+## 🌟 Proyek Unggulan  
+- **[Dockerized Mail Server](https://github.com/username/dockerized-mail-server)**  
+  Solusi mail server self-hosted dengan Postfix, Dovecot, dan OpenDKIM untuk integrasi email aman dan andal.  
+
+- **[IPv6 Network Automation](https://github.com/username/ipv6-network-automation)**  
+  Script otomatis untuk konfigurasi jaringan berbasis IPv6 pada router MikroTik menggunakan OSPF.  
+
+- **[LocalSend Deployment](https://github.com/username/localsend-deployment)**  
+  Panduan untuk deploy LocalSend secara self-hosted di server Linux.  
+
+---
+
+## ✍️ Artikel & Tutorial  
+- **[Mengelola Open vSwitch untuk Docker Networking](https://github.com/username/blog-openswitch)**  
+- **[Cara Menyiapkan Postfix dengan DKIM dan SPF](https://github.com/username/postfix-dkim-setup)**  
+- **[Automasi Tugas Sysadmin dengan Ansible](https://github.com/username/ansible-guide)**  
+
+---
+
+## 🎯 Tujuan & Aspirasi  
+Saya ingin terus berkembang sebagai seorang **System Administrator** dengan fokus pada:  
+- Meningkatkan efisiensi infrastruktur melalui automasi.  
+- Membangun solusi self-hosted yang andal dan aman.  
+- Berkontribusi pada komunitas open-source dengan berbagi alat dan pengetahuan.  
+
+---
+
+## 🌐 Hubungi Saya  
+- **Email**: rizki@multinetperkasa.id  
+- **LinkedIn**: [linkedin.com/in/muhammadrizki](https://linkedin.com/in/muhammadrizki)  
+- **Website**: [rizki-techblog.com](https://rizki-techblog.com) *(jika ada)*  
+
+---
+
+⭐ Jangan lupa untuk memberi star ⭐ pada repositori saya jika Anda merasa proyek saya bermanfaat!  
