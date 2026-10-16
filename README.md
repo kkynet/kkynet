@@ -3,13 +3,13 @@
 [![GitHub followers](https://img.shields.io/github/followers/kkynet?logo=GitHub&style=for-the-badge)](https://github.com/kkynet)
 [![GitHub Stars](https://img.shields.io/github/stars/kkynet?logo=github&style=for-the-badge)](https://github.com/kkynet)
 
-# 💻 Muhammad Rizki | Linux System Administrator  
+# Muhammad Rizki | Linux System Administrator  
 
-👋 Selamat datang di profil GitHub saya! Saya seorang **Linux System Administrator** dengan pengalaman dalam mengelola server, jaringan, dan solusi berbasis cloud. Saya suka mengeksplorasi teknologi baru, mengotomatiskan tugas rutin, dan memastikan sistem berjalan dengan efisien dan aman.  
+Selamat datang di profil GitHub saya! Saya seorang **Linux System Administrator** dengan pengalaman dalam mengelola server, jaringan, dan solusi berbasis cloud. Saya suka mengeksplorasi teknologi baru, mengotomatiskan tugas rutin, dan memastikan sistem berjalan dengan efisien dan aman.  
 
 ---
 
-## 🔧 Keahlian Utama  
+## Keahlian Utama  
 - **Sistem Operasi**: Linux (Ubuntu, Debian, CentOS, RHEL)  
 - **Automasi**: Bash Scripting, Ansible  
 - **Jaringan**: IPv4/IPv6, VLAN, OSPF, Open vSwitch (OVS)  
@@ -20,20 +20,21 @@
 
 ---
 
-## 🌟 Project
+## Project
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kkynet&repo=GitOps&theme=radical)](https://github.com/kkynet/GitOps)
+
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kkynet&repo=ispconfig3-docker&theme=radical)](https://github.com/kkynet/ispconfig3-docker)
 
 ---
 
-## ✍️ Artikel & Tutorial  
+## Artikel & Tutorial  
 
 Soon
 
 ---
 
-## 🎯 Tujuan & Aspirasi  
+## Tujuan & Aspirasi  
 Saya ingin terus berkembang sebagai seorang **System Administrator** dengan fokus pada:  
 - Meningkatkan efisiensi infrastruktur melalui automasi.  
 - Membangun solusi self-hosted yang andal dan aman.  
@@ -41,10 +42,10 @@ Saya ingin terus berkembang sebagai seorang **System Administrator** dengan foku
 
 ---
 
-# 📊 Stats
+# Stats
 
 [![Kkynet's github stats](https://github-readme-stats.vercel.app/api?username=kkynet&show_icons=true&count_private=true&theme=radical&hide=stars)](https://github.com/kkynet)
 
 ---
 
-⭐ Jangan lupa untuk memberi star ⭐ pada repositori saya jika Anda merasa proyek saya bermanfaat!  
+Jangan lupa untuk memberi star pada repositori saya jika Anda merasa proyek saya bermanfaat
