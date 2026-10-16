@@ -22,6 +22,7 @@
 
 ## 🌟 Project
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kkynet&repo=GitOps&theme=radical)](https://github.com/kkynet/GitOps)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kkynet&repo=ispconfig3-docker&theme=radical)](https://github.com/kkynet/ispconfig3-docker)
 
 ---
